@@ -9,7 +9,7 @@
 ### How to Install
 ```bash
 helm repo add helmtest https://kuzwolka.github.io/AWS9helmTest/
-helm install aws9helm helmtest/aws9helm --namespace=aws9helm --create-namespace
+helm install aws9helm helmtest/aws9test --namespace=aws9helm --create-namespace
 ```
 
 ### Release --set Options
