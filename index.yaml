@@ -3,12 +3,12 @@ entries:
   aws9helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-23T09:29:05.153148009+09:00"
+    created: "2025-04-23T10:22:12.133672212+09:00"
     description: A Helm chart for Kubernetes
-    digest: 2b3511acaeafe2b635e577b739944f694568dc169221223829b6d3eaff845fc1
+    digest: c95d5432e749271600d743a73b3eb9d789e6df77192a27efb61bdbd6edf55c14
     name: aws9helm
     type: application
     urls:
     - aws9helm-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-23T09:29:05.15158874+09:00"
+generated: "2025-04-23T10:22:12.128189606+09:00"
