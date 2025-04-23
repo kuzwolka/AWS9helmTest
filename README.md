@@ -8,7 +8,7 @@
 
 ### How to Install
 ```
-helm repo add helmtest https://kuzwolka.github.io/AWS9helmTest/
+helm repo add helmtest https://kuzwolka.github.io/aws9helm/
 helm install aws9helm helmtest/aws9helm --namespace=aws9helm --create-namespace
 ```
 
